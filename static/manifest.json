@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "type": "ScriptAssetPlugin",
+  "id": "my.example.script.asset.plugin",
+  "name": "My Example Script Asset Plugin",
+  "description": "Example of a script asset plugin."
+}
